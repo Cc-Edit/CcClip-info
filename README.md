@@ -1,9 +1,10 @@
 ![logo.png](logo.png)
 # ccEditor
 
-## 简介
-    Vue 3 + FFmpeg 实现纯前端音视频编辑
+## 简介(👉🏻[Bilibili](https://www.bilibili.com/video/BV1YT411Y7YJ/?vd_source=9fd8af4f13245f1b9c93cacec716a4ed))
+    Vue 3 + FFmpeg 实现纯前端音视频编辑 
 
+    
 ## 特性
 - 💪 Vue 3、Vue-Router 4、Vite、pnpm、esbuild、TypeScript
 - ☀️ Pinia 状态管理
